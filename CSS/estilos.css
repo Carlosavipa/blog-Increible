@@ -12,12 +12,14 @@ body
     text-align: left;
     border: solid;
     margin: 0 auto;
+    font-family: ;
 
 
 }
 #container h1
 {
-    font-size: 30px;
+    font-size: 25px;
+    font-family: 'Courier New';
 
 }
 #cabecera {
