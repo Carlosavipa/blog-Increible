@@ -10,7 +10,7 @@ body
     width: 80%;
     padding: 1em;
     text-align: left;
-    border: solid;
+    border: rgb(255, 11, 11);
     margin: 0 auto;
     font-family: ;
 
@@ -19,7 +19,7 @@ body
 #container h1
 {
     font-size: 25px;
-    font-family: 'Courier New';
+    font-family: 'arial';
 
 }
 #cabecera {
