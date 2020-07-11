@@ -9,9 +9,9 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: center;
-    border: black;
-    margin: 1 auto;
+    text-align: left;
+    border: solid;
+    margin: 0 auto;
 
 
 }
@@ -24,6 +24,8 @@ body
     background: #4444cc;
     color: white;
     text-align: center;
+    font: italic;
+    font-family: arial;
     font-weight: bold;
     -webkit-box-shadow: -9px 16px 43px -5px rgba(105,105,105,1);
     -moz-box-shadow: -9px 16px 43px -5px rgba(105,105,105,1);
